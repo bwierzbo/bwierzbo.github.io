@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+* {
+    font-family: Helvetica;
+}
+body {
+    background-color: gray;
+}
+header {
+    text-align: center;
+    margin: 20px auto;
+
+}
+.tablecaptions {
+    text-align: center;
+    margin-top: 50px;
+
+}
+table {
+    position: relative;
+    border: 2px solid black;
+    background-color: rgba(220, 220, 220, 0.534);
+    width: 100%;
+    width: 650px;
+    margin: 25px auto;
+    
+}
+thead {
+    background-color: rgba(220, 220, 220, 0.534);
+    text-align: center;
+}
+.tag {
+    width: 12%;
+}
+.name {
+    width: 18%;
+}
+.desc {
+    width: 70%;
+}
